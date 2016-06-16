@@ -1,2 +1,3 @@
 # hello-world
-rnorm(100)
+d <- rnorm(100)
+hist(d)
